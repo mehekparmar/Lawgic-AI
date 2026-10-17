@@ -1,0 +1,104 @@
+timestamp,domain,query,latency_seconds,num_sources,grounded
+2026-09-07T18:47:49.076812,consumer,Can I get a refund if the product was delivered late?,1.227,5,True
+2026-09-07T18:51:09.920708,consumer,What can I do if I received a defective product and the seller refuses to replace it,1.614,5,True
+2026-09-08T21:42:13.251136,consumer,Is a seller required to honor a warranty claim if I've lost the original receipt?,1.595,5,True
+2026-09-08T21:43:01.400163,consumer,What are my rights if an online seller cancels my order after payment?,1.254,5,True
+2026-09-08T21:44:02.202518,bail,What factors do courts consider when deciding whether to grant bail?,3.173,5,False
+2026-09-08T21:44:30.881004,bail,Under what circumstances is bail typically rejected in a criminal case?,1.897,5,True
+2026-09-08T21:44:55.091314,bail,What role does the severity of the IPC section charged play in a bail decision?,3.079,5,True
+2026-09-08T21:47:24.868409,bail,How does flight risk affect a bail application outcome?,1.484,5,True
+2026-09-08T21:52:25.686918,bail,What courts have handled matrimonial litigation cases in this dataset?,1.464,5,False
+2026-09-08T21:52:42.763889,bail,What kinds of outcomes are recorded for matrimonial disputes?,1.392,5,True
+2026-09-08T21:53:07.941369,bail,Roughly when were these matrimonial cases decided?,0.736,5,True
+2026-09-08T21:55:36.721615,bail,What is the punishment for cheque bounce under the Negotiable Instruments Act?,1.128,5,True
+2026-09-09T08:32:45.382591,consumer,what should be done for bail if i have been caught in hit and run?,0.926,5,True
+2026-09-09T08:33:43.735897,consumer,what is the process of divorce when i just got married yesterday?,0.876,5,True
+2026-09-09T08:35:01.799904,consumer,"i have an issue about a product in a general store near my house and i want to complain for consumer rights, what is the process to do so?",1.827,5,True
+2026-09-09T08:36:05.258137,consumer,"for a consumer complaint I want to be anonymous about it, is that possible?",1.089,5,True
+2026-09-09T08:48:22.346780,bail,what should be done for bail if i have been caught in hit and run?,0.996,5,True
+2026-09-09T08:49:01.440050,matrimonial,what is the process of divorce when i just got married yesterday?,0.818,5,True
+2026-09-09T11:00:12.730029,bail,What factors do courts consider when deciding whether to grant bail?,3.023,5,True
+2026-09-26T15:03:09.119303,pdf:CPA2019.pdf,What is on page 4?,0.0,1,True
+2026-09-26T15:04:12.999786,pdf:CPA2019.pdf,explain defect from page 4,0.0,1,True
+2026-09-26T15:04:23.745528,pdf:CPA2019.pdf,what does defect actually mean,0.0,5,True
+2026-09-26T16:24:05.806394,pdf:CPA2019.pdf,explain the 101 law,0.0,5,True
+2026-09-26T16:29:50.342585,pdf:CPA2019.pdf,"What is the Consumer Protection Act, 2019?",0.0,5,True
+2026-09-26T16:30:41.280102,pdf:CPA2019.pdf,"When did the Consumer Protection Act, 2019 receive presidential assent?",0.0,5,True
+2026-09-26T16:31:08.109145,pdf:CPA2019.pdf,What is the extent of application of the Act?,0.0,5,True
+2026-09-26T16:31:32.990401,pdf:CPA2019.pdf,What is meant by a “consumer” under the Act?,0.0,5,True
+2026-09-26T16:33:31.912447,pdf:CPA2019.pdf,Who is excluded from the definition of a consumer?,0.0,5,True
+2026-09-26T16:34:06.694173,pdf:CPA2019.pdf,What is a “complaint” under the Act?,0.0,5,True
+2026-09-26T16:34:15.498164,pdf:CPA2019.pdf,What is meant by “consumer dispute”?,0.0,5,True
+2026-09-26T16:34:24.308536,pdf:CPA2019.pdf,What are the consumer rights recognized under the Act?,0.0,5,True
+2026-09-26T16:34:37.821852,pdf:CPA2019.pdf,What is the difference between a defect and a deficiency?,0.0,5,True
+2026-09-26T16:34:46.324042,pdf:CPA2019.pdf,What is meant by an unfair trade practice?,0.0,5,True
+2026-09-26T16:35:08.340382,pdf:CPA2019.pdf,Can a person who purchases goods for resale be considered a consumer under the Act? Why?,0.0,5,True
+2026-09-26T16:35:21.196580,pdf:CPA2019.pdf,Does purchasing something online make a person a consumer under the Act?,0.0,5,True
+2026-09-26T16:35:45.329077,pdf:CPA2019.pdf,"If a person buys a product exclusively to earn their livelihood through self-employment, can they still qualify as a consumer?",0.0,5,True
+2026-09-26T16:35:54.625802,pdf:CPA2019.pdf,What types of allegations can form the basis of a consumer complaint?,0.0,5,True
+2026-09-26T16:36:02.482413,pdf:CPA2019.pdf,What constitutes a misleading advertisement under the Act?,0.0,5,True
+2026-09-26T16:36:10.805116,pdf:CPA2019.pdf,"What is product liability, and against whom can a product liability action be filed?",0.0,5,True
+2026-09-26T16:36:21.148271,pdf:CPA2019.pdf,What is the difference between product liability and product liability action?,0.0,5,True
+2026-09-26T16:36:28.316941,pdf:CPA2019.pdf,"What is an unfair contract under the Consumer Protection Act, 2019?",0.0,5,True
+2026-09-26T16:36:38.171722,pdf:CPA2019.pdf,What is a restrictive trade practice? Give examples provided in the Act.,0.0,5,True
+2026-09-26T16:36:44.905987,pdf:CPA2019.pdf,"What is the meaning of “service” under the Act, and what services are specifically mentioned?",0.0,5,True
+2026-09-26T17:00:24.202359,pdf:CPA2019.pdf,What is meant by a consumer under the Act?,0.0,8,True
+2026-09-26T17:02:47.253200,pdf:CPA2019.pdf,What is meant by a consumer under the Act?,0.0,8,True
+2026-09-26T17:07:31.380617,pdf:CPA2019.pdf,What is meant by a consumer under the Act?,0.0,8,True
+2026-09-26T17:08:13.362706,pdf:CPA2019.pdf,What is a complaint under the Act?,0.0,8,True
+2026-09-26T17:08:21.052818,pdf:CPA2019.pdf,What is an unfair trade practice?,0.0,8,True
+2026-09-26T20:11:11.086437,pdf:Bail in the Criminal Justice System.pdf,what is section 480,0.0,8,True
+2026-09-26T20:13:28.768361,pdf:Bail in the Criminal Justice System.pdf,what does page 9 discuss,0.0,1,True
+2026-09-26T20:14:23.884265,pdf:Bail in the Criminal Justice System.pdf,Explain section 480,0.0,8,True
+2026-09-27T12:46:01.178904,bail,can I get out of jail if this is my first offense,0.985,5,True
+2026-09-27T12:46:10.948455,bail,can I get out of jail if this is my first offense,1.074,5,True
+2026-09-27T12:47:14.377805,consumer,the shop lied about what the product could do,3.122,5,True
+2026-09-27T12:47:19.875584,consumer,the shop lied about what the product could do,1.361,5,True
+2026-09-27T12:58:59.305806,pdf:Bail in the Criminal Justice System.pdf,What is the definition of bail under Section 2(b) of the BNSS?,0.0,8,True
+2026-09-27T12:59:14.053664,pdf:Bail in the Criminal Justice System.pdf,What is a bail bond?,0.0,8,True
+2026-09-27T12:59:32.894185,pdf:Bail in the Criminal Justice System.pdf,What is the difference between a bond and a bail bond?,0.0,8,True
+2026-09-27T12:59:57.164419,pdf:Bail in the Criminal Justice System.pdf,What is default bail under the BNSS?,0.0,8,True
+2026-09-27T13:00:12.728850,pdf:Bail in the Criminal Justice System.pdf,What are the time limits for default bail under Section 187(3)?,0.0,8,True
+2026-09-27T13:30:46.117346,pdf:Bail in the Criminal Justice System.pdf,When can an accused be released on default bail after 90 days?,0.0,8,True
+2026-09-27T13:31:06.070747,pdf:Bail in the Criminal Justice System.pdf,What is post-conviction bail?,0.0,8,True
+2026-09-27T13:31:18.984349,pdf:Bail in the Criminal Justice System.pdf,Which section of the BNSS deals with post-conviction bail?,0.0,8,True
+2026-09-27T13:31:32.480249,pdf:Bail in the Criminal Justice System.pdf,What is regular bail?,0.0,8,True
+2026-09-27T13:31:47.966186,pdf:Bail in the Criminal Justice System.pdf,What is anticipatory bail?,0.0,8,True
+2026-09-27T13:31:59.842809,pdf:Bail in the Criminal Justice System.pdf,Which courts can grant anticipatory bail under Section 482?,0.0,8,True
+2026-09-27T13:32:38.979551,pdf:Bail in the Criminal Justice System.pdf,"According to this document, which exact section defines ""bail""?",0.0,8,True
+2026-09-27T13:32:56.437747,pdf:Bail in the Criminal Justice System.pdf,"Give the exact section number and explain the difference between a ""bond"" and a ""bail bond.""",0.0,8,True
+2026-09-27T13:33:09.275466,pdf:Bail in the Criminal Justice System.pdf,What is the exact statutory basis for default bail after 90 days?,0.0,8,True
+2026-09-27T13:33:41.322084,pdf:Bail in the Criminal Justice System.pdf,An accused has been in custody for 91 days in an offence punishable with imprisonment of 10 years. Can the accused claim default bail according to the document?,0.0,8,True
+2026-09-27T13:34:03.761706,pdf:Bail in the Criminal Justice System.pdf,"Which section provides for anticipatory bail, and which courts can grant it?",0.0,8,True
+2026-09-27T13:51:13.187057,pdf:4.pdf,"What is the Hindu Marriage Act, 1955?",0.0,8,True
+2026-09-27T13:51:29.058864,pdf:4.pdf,What is the extent of the Hindu Marriage Act?,0.0,8,True
+2026-09-27T13:51:45.215756,pdf:4.pdf,Who does the Hindu Marriage Act apply to?,0.0,8,True
+2026-09-27T13:51:58.244021,pdf:4.pdf,Who is considered a Hindu under Section 2?,0.0,8,True
+2026-09-27T13:52:09.042638,pdf:4.pdf,"Does the Act apply to Buddhists, Jains and Sikhs?",0.0,8,True
+2026-09-27T13:52:45.240986,pdf:4.pdf,What is meant by “custom” and “usage” under the Act?,0.0,8,True
+2026-09-27T13:52:55.483557,pdf:4.pdf,What is meant by “sapinda relationship”?,0.0,8,True
+2026-09-27T13:53:18.932503,pdf:4.pdf,What are “degrees of prohibited relationship”?,0.0,8,True
+2026-09-27T13:53:31.016782,pdf:4.pdf,What is the overriding effect of the Hindu Marriage Act?,0.0,8,True
+2026-09-27T13:53:41.564169,pdf:4.pdf,What are the conditions for a valid Hindu marriage under Section 5?,0.0,8,True
+2026-09-27T13:53:51.342257,pdf:4.pdf,What are the minimum ages for the bridegroom and bride?,0.0,8,True
+2026-09-27T13:54:01.386077,pdf:4.pdf,When are two people considered sapindas?,0.0,8,True
+2026-09-27T13:54:11.468347,pdf:4.pdf,What are the ceremonies required for a Hindu marriage?,0.0,8,True
+2026-09-27T13:54:22.119289,pdf:4.pdf,When does a marriage involving Saptapadi become complete and binding?,0.0,8,True
+2026-09-27T13:54:32.866751,pdf:4.pdf,What is the purpose of registration of Hindu marriages?,0.0,8,True
+2026-09-27T13:55:01.336045,pdf:4.pdf,Answer the question using only the uploaded document and provide the relevant section number for every claim.,0.0,8,True
+2026-09-27T13:55:27.047230,pdf:4.pdf,"11. Give the relevant section numbers for judicial separation, divorce, mutual-consent divorce, maintenance, child custody and appeals.",0.0,8,True
+2026-09-27T13:55:38.083795,pdf:4.pdf,Which section specifies where a petition under the Act should be filed?,0.0,8,True
+2026-09-27T13:56:11.274783,pdf:4.pdf,Which section deals with custody of children?,0.0,8,True
+2026-09-27T13:56:30.628678,pdf:4.pdf,A divorced person wants to remarry immediately after the divorce decree. What conditions under Section 15 must be satisfied?,0.0,8,True
+2026-09-27T13:56:47.011523,pdf:4.pdf,A marriage is declared void under Section 11 and the couple has a child. What does Section 16 provide regarding the child's legitimacy?,0.0,8,True
+2026-09-27T13:57:08.005554,pdf:4.pdf,"A couple wants their mutual-consent divorce to proceed, but one party claims their consent was obtained by fraud. What does Section 23 require the court to consider?",0.0,8,True
+2026-09-27T13:57:35.141783,pdf:4.pdf,Both spouses file divorce petitions in different district courts. What happens to the later petition?,0.0,8,True
+2026-09-27T13:57:51.933517,pdf:4.pdf,A spouse has no independent income sufficient for their support and litigation expenses. What relief may be available under Section 24?,0.0,8,True
+2026-09-27T14:02:18.373717,pdf:Bail in the Criminal Justice System.pdf,What is the definition of “bail” under Section 2(b) of the BNSS?,0.0,8,True
+2026-09-27T14:02:30.978995,pdf:Bail in the Criminal Justice System.pdf,What is a “bail bond” under Section 2(d) of the BNSS?,0.0,8,True
+2026-09-27T14:02:42.856925,pdf:Bail in the Criminal Justice System.pdf,What is a “bond” under Section 2(e) of the BNSS?,0.0,8,True
+2026-09-27T14:02:57.907564,pdf:Bail in the Criminal Justice System.pdf,"According to the PDF, which section of the BNSS deals with anticipatory bail?",0.0,8,True
+2026-09-27T14:03:13.475043,pdf:Bail in the Criminal Justice System.pdf,"According to the PDF, which section deals with default bail?",0.0,8,True
+2026-09-27T14:03:55.867185,pdf:Bail in the Criminal Justice System.pdf,What does Section 478 of the BNSS provide regarding bail?,0.0,8,True
+2026-09-27T14:04:09.589724,pdf:Bail in the Criminal Justice System.pdf,When can an indigent person be released by executing a bond instead of furnishing surety?,0.0,8,True
+2026-09-27T14:04:21.161844,pdf:Bail in the Criminal Justice System.pdf,Under what circumstances can a court refuse bail under Section 478(2)?,0.0,8,True
