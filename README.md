@@ -1,4 +1,4 @@
-# Nyaya Dossier — Multi-Domain Indian Legal RAG System
+# Lawgic AI — Multi-Domain Indian Legal RAG System
 
 Three case files, one shared pipeline: **Consumer Grievances**, **Bail Adjudication**, **Matrimonial Litigation**.
 
